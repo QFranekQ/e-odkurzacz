@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/e-odkurzacz/static/css/main.073c9b0a.css",
-    "main.js": "/e-odkurzacz/static/js/main.19ac804c.js",
+    "main.js": "/e-odkurzacz/static/js/main.a38e3ea9.js",
     "static/js/787.f1d1b9a9.chunk.js": "/e-odkurzacz/static/js/787.f1d1b9a9.chunk.js",
     "static/media/logo.svg": "/e-odkurzacz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/e-odkurzacz/index.html",
     "main.073c9b0a.css.map": "/e-odkurzacz/static/css/main.073c9b0a.css.map",
-    "main.19ac804c.js.map": "/e-odkurzacz/static/js/main.19ac804c.js.map",
+    "main.a38e3ea9.js.map": "/e-odkurzacz/static/js/main.a38e3ea9.js.map",
     "787.f1d1b9a9.chunk.js.map": "/e-odkurzacz/static/js/787.f1d1b9a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.19ac804c.js"
+    "static/js/main.a38e3ea9.js"
   ]
 }
