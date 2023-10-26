@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { BrowserRouter as Router, Route, Switch,Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch,Routes } from 'react-router-dom';
 import Homepage from './Components/Homepage';
 import Koszyk from './Components/Koszyk';
 
